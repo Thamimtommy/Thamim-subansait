@@ -2,6 +2,7 @@ h1{
 	color:blue;
 	font-family:"Frank Ruhl Libre";
 	
+	
 }
 h2{
 	color:gold;
@@ -12,4 +13,68 @@ h2{
 p{
 	color:black;
 	font-family:"Fira Sans";
+	font-size:20px;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+img 
+{
+  opacity: 1.0;
+}
+ul{
+	color:pink;
+	font-family:"Roboto Mono";
+	
+}
+
+section{
+	background-image: url("image.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    border:2px;
+    border-color: white;
+}
+img{
+    border-radius: 20%;
+}
+body{
+	background-image: url("image4.jpg");
+	background-position:auto;
+	
+}
+ol{
+	color: black;
+	font-size:20px;
+	font-family:"Fira Sans";
+	
+}
+social{
+	color:black;
+	font-size:90px;
+	font-family:"Fira Sans";
+}
+article{
+	background-image:url("image6.jpg");
+	background-position:auto;
+	background-repeat:no-repeat;
+	
+	
+}
+audio{
+	background-color:pink;	
+}
+b{
+	color:orange;
+}
+footer{
+	position:center;
+	color:purple;
+	font-size:16px;
+	
+}
+
+	
