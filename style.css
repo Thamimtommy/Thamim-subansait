@@ -1,8 +1,8 @@
 h1{
-	color:blue;
-	font-family:"Frank Ruhl Libre";
-	
-	
+	color:#827689;
+	font-family:"Luckiest Guy";
+	font-size:30px;
+		
 }
 h2{
 	color:gold;
@@ -11,8 +11,8 @@ h2{
 	
 }
 p{
-	color:black;
-	font-family:"Fira Sans";
+	color:white;
+	font-family:"Teko";
 	font-size:20px;
 }
 img {
@@ -35,14 +35,14 @@ section{
 	background-image: url("image.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
-    border:2px;
+   
     border-color: white;
 }
 img{
     border-radius: 20%;
 }
 body{
-	background-image: url("image4.jpg");
+	background-image: url("image8.jpg");
 	background-position:auto;
 	
 }
@@ -57,18 +57,13 @@ social{
 	font-size:90px;
 	font-family:"Fira Sans";
 }
-article{
-	background-image:url("image6.jpg");
-	background-position:auto;
-	background-repeat:no-repeat;
-	
-	
-}
+
+
 audio{
 	background-color:pink;	
 }
 b{
-	color:orange;
+	color:white;
 }
 footer{
 	position:center;
@@ -76,5 +71,31 @@ footer{
 	font-size:16px;
 	
 }
+about{
+	background-image:url("image.jpg");
+	background-color:grey;
+	
+}
+header{
+	color:black;
+	font-family:"Luckiest Guy";
+	font-size:30px;
+	height:10px;
+	
+}
+
+body{
+	background-color:#a15e97;
+	border:10px;
+}
+
+nav{
+	display:flex;
+    flex-direction:row;
+	flex-wrap: wrap;
+	justify-content:space-between;
+}
+
+
 
 	
